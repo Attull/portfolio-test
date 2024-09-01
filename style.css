@@ -9,41 +9,18 @@ body {
 .logo {
   margin-left: 50px;
 }
-.header-text {
-  background-image: url(images/pro.jpg);
-  height: 80vh;
-  background-repeat: no-repeat;
-  background-position: 85%;
-  background-color: black;
-  background-size: 550px;
-}
 
-.head-text {
-  padding-top: 150px;
-}
 .head-text-title {
   font-size: 55px;
 }
 .head-text-title span {
   color: #ff004f;
 }
-.aboutme-page {
-  height: 90vh;
-  background-color: rgb(57, 54, 54);
-}
-.aboutme-sub-title {
-  font-size: 60px;
-  text-align: center;
-}
+
+
 /* -------skills------- */
-.skills {
-  height: 90vh;
-  background-color: black;
-  color: white;
-}
-.subtitle-skill {
-  font-size: 90px;
-}
+
+
 .skillbar-html {
   box-shadow: 0 0 10px #f2f2f2;
   background-color: rgb(57, 54, 54);
@@ -97,29 +74,8 @@ body {
   margin: 30px;
 }
 /* ------work---- */
-.work {
-  height: 140vh;
-  background-color: rgb(57, 54, 54);
-  color: white;
-  text-align: center;
-}
-.subtitle-work {
-  font-size: 70px;
-}
-.mywork {
-  display: flex;
-  justify-content: space-evenly;
-  flex-wrap: wrap;
-}
+
 /* -----contact--- */
-.contact {
-  padding: 150px 0;
-  background-color: black;
-  color: white;
-  height: 70vh;
-  display: flex;
-  flex-direction: row;
-}
 .contact-left {
   flex: 0 0 35%;
   width: 35%;
